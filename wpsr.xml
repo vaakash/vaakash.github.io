@@ -8,6 +8,7 @@
         <ol>
 			<li>Added option to Sharethis "CopyNshare" feature.</li>
 			<li>Fixed the issue in page URL outside the post loop. The wrong share count displayed for various buttons is therefore fixed.</li>
+			<li>Fixed small UI related bugs.</li>
 		</ol>
 
 		<p>More information in the <a href="http://www.aakashweb.com/wordpress-plugins/wp-socializer/" target="_blank">Changelog</a></p>
