@@ -1,6 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?> 
 <items>
     
+	<content version="2.4.9.7">
+        <![CDATA[
+                
+        <h4>New features and bug fixes in v2.4.9.7</h4>
+        <ol>
+			<li>Added option to Sharethis "CopyNshare" feature.</li>
+			<li>Fixed the issue in page URL outside the post loop. The wrong share count displayed for various buttons is therefore fixed.</li>
+		</ol>
+
+		<p>More information in the <a href="http://www.aakashweb.com/wordpress-plugins/wp-socializer/" target="_blank">Changelog</a></p>
+		
+		<h3>Share, donate and Support</h3>
+        <p>If you like this plugin, consider sharing it. This plugin will be useful for many other WordPress users.</p>
+		
+		<p>Donate: If you find this plugin useful, <a href="http://bit.ly/wpsrDonation">consider making a donation</a>, it will make me happy for this plugin!!</p>
+		
+        <h3>Demo Video</h3>
+        <iframe width="550" height="335" src="http://www.youtube.com/embed/1uimAE8rFYE?rel=0" frameborder="0" allowfullscreen></iframe>
+ 
+        ]]>
+    </content>
+	
 	<content version="2.4.9.6">
         <![CDATA[
         
