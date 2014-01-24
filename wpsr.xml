@@ -1,6 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?> 
 <items>
-    
+   
+ 	<content version="2.4.9.8">
+        <![CDATA[
+                
+        <h4>New features and bug fixes in v2.4.9.8</h4>
+        <ol>
+			<li>(NEW) Social button site (**VKontakte**) (now contains 108 social bookmarking buttons)</li>
+			<li>Sharethis code fix.</li>
+			<li>Sharethis twitter handle fix.</li>
+			<li>Pinterest alignment fix.</li>
+			<li>Social buttons url encoding fix.</li>
+			<li>Facebook button code updated (support for share button).</li>
+			<li>(NEW) Facebook like button for different languages.</li>
+			<li>Google plus button code updated.</li>
+			<li>Removed outdated options in admin page.</li>
+			<li>Minor UI changes</li>
+		</ol>
+
+		<p>More information in the <a href="http://www.aakashweb.com/wordpress-plugins/wp-socializer/#changelog" target="_blank">Changelog</a></p>
+		
+		<h3>Future of WP Socializer</h3>
+		<p>I'm planning for a complete change in the plugin with simple UI, more buttons support, localization and extendibility. This can be effective from v2.5. So, if the feature you recommended ( in forums and comments ) is not implemented in this version, please bear with it.</p>
+		
+		<h3>Share, donate and Support</h3>
+        <p>If you like this plugin, consider sharing it. This plugin will be useful for many other WordPress users.</p>
+		
+		<p>Donate: If you find this plugin useful, <a href="http://bit.ly/wpsrDonation">consider making a donation</a>, it will make me happy for this plugin!!</p>
+		
+        <h3>Demo Video</h3>
+        <iframe width="550" height="335" src="http://www.youtube.com/embed/1uimAE8rFYE?rel=0" frameborder="0" allowfullscreen></iframe>
+ 
+        ]]>
+    </content>
+   
 	<content version="2.4.9.7">
         <![CDATA[
                 
