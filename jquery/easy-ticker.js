@@ -102,7 +102,7 @@
 
 			$(s.opts.controls.toggle).addClass('et-run').html(s.opts.controls.stopText);
 			
-		} // Start mehod
+		} // Start method
 		
 		
 		function stop(){
