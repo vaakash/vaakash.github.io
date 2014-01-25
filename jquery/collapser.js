@@ -10,9 +10,9 @@
     var name = "collapser",
         defaults = {
 			target: 'next',
-			mode: 'block',
+			mode: 'words',
 			speed: 'slow',
-			truncate: 2,
+			truncate: 10,
 			ellipsis: '...',
 			effect: 'fade',
 			controlBtn: '',
